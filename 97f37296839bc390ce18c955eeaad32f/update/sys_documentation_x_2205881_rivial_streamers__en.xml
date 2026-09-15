@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Streamers" language="en" table="x_2205881_rivial_streamers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Streamers</label>
+            <language>en</language>
+            <name>x_2205881_rivial_streamers</name>
+            <plural>Streamers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-15 15:38:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Streamers</sys_name>
+            <sys_package display_value="Rivial" source="x_2205881_rivial">97f37296839bc390ce18c955eeaad32f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rivial">97f37296839bc390ce18c955eeaad32f</sys_scope>
+            <sys_update_name>sys_documentation_x_2205881_rivial_streamers__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-15 15:38:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
